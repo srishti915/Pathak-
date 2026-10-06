@@ -1,0 +1,18 @@
+[
+  {
+    "id": "lead_1791262834179_qcvo1",
+    "name": "Priya Sharma",
+    "email": "priya@example.com",
+    "message": "Hello Srishti, interested in working together on a digital marketing project!",
+    "receivedAt": "2026-10-06T05:00:34.179Z",
+    "recipientEmail": "srishtidigital36@gmail.com"
+  },
+  {
+    "id": "lead_1791269644970_v2olk",
+    "name": "Aarav Mehta",
+    "email": "aarav@example.com",
+    "message": "Hi Srishti, let us discuss a digital marketing collaboration.",
+    "receivedAt": "2026-10-06T06:54:04.970Z",
+    "recipientEmail": "srishtidigital36@gmail.com"
+  }
+]
